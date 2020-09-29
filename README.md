@@ -1,2 +1,3 @@
-# devopslab
-Aula 1 DevOps Fundamentals Faculdade Impacta
+# Laboratório DevOps 1
+
+Aplicação Simples em Python/Flask com teste usando Unittest integrado ao Travis-CI fazendo deploy no Heroku para a disciplina de DevOps Fundamentals do MBA da Impacta.
