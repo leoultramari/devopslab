@@ -1,3 +1,6 @@
+dist: xenial
+os: linux
+
 # Linguagem Utilizada para Desenvolver a Aplicação                                                                                                                                                       
 language: python                                                                                                                                                                                         
 
@@ -17,5 +20,6 @@ script:
 deploy:
   provider: heroku
   api_key: $HEROKU_API_KEY
+  strategy: api
   edge: true 
   app: devopslab-leoultramari    
