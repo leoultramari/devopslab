@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/leoultramari/devopslab.svg?branch=master)](https://travis-ci.com/leoultramari/devopslab)
+
 # Laboratório DevOps 1
 editado com vim
 
